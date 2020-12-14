@@ -1,6 +1,6 @@
 {
   "name": "jm-footinashell",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module allows for a dynamic footer to be generated for js applications, with a updated year and name.",
   "main": "index.js",
   "scripts": {
