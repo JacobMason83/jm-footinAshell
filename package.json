@@ -1,0 +1,25 @@
+{
+  "name": "jm-footinashell",
+  "version": "1.0.0",
+  "description": "This module allows for a dynamic footer to be generated for js applications, with a updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobMason83/jm-footinAshell.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Jacob Mason <jmason062083@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobMason83/jm-footinAshell/issues"
+  },
+  "homepage": "https://github.com/JacobMason83/jm-footinAshell#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
